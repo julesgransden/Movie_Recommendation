@@ -9,6 +9,7 @@ Make sure you have the required dependencies installed before running the applic
 
 ```bash
 pip install streamlit numpy pandas matplotlib seaborn scikit-learn nltk
+```
 
 ## Features
 - **Streamlit Front-End:** Utilizes Streamlit to create an interactive and user-friendly web application for entering movie names and receiving personalized recommendations.
